@@ -1,0 +1,14 @@
+Cython>=3.2.9
+hdf5storage>=0.2.2
+hickle>=5.0.3
+h5py>=3.16.0
+ipython>=9.16.0
+matplotlib>=3.11.1
+neo>=0.14.5
+networkx>=3.6.1
+numpy>=2.5.1
+pandas>=3.0.5
+PyQt5>=5.15.11
+regex>=2026.7.19
+scipy>=1.18.0
+seaborn>=0.13.2
