@@ -3,7 +3,7 @@
 # first job called from the day directory
 # creates RPLParallel, Unity, and EDFSplit objects, and
 # calls aligning_objects and raycast
-sbatch /data/src/PyHipp/rplparallel-slurm.sh
+sbatch /data/src/PyHipp/myrplparallel-slurm.sh
 
 # second job - no dependencies
 jid2=$(sbatch /data/src/PyHipp/rse-slurm.sh)
